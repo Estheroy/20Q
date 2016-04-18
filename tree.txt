@@ -1,0 +1,41 @@
+Q:Is it bigger than a breadbox
+Q:Is it cute?
+Q:Is it edible?
+Q:Can you read it?
+Q:Does people use it to communicate with others?
+A:eraser
+A:phone
+Q:Can we find it in library?
+A:spam
+A:book
+Q:Is it sweet?
+A:pizza
+Q:Is it a drink?
+A:ice cream
+A:mocha
+Q:Is it alive?
+Q:Do you wear it in your neck?
+A:cute backpack
+A:necklace
+Q:Can it fly?
+Q:Does it live under the water?
+A:rabbit
+A:fish
+Q:Is it a animal?
+A:butterfly
+A:cute bird
+Q:Is it a building?
+Q:Does it like using computer?
+Q:Does it know how to speak?
+A:Baby
+A:artist
+Q:Does it like programming?
+A:computer game player
+A:a computer scientist
+Q:Does the building has a lot of books?
+Q:Does it used for teaching?
+A:Apartment
+A:classroom
+Q:Is it in UCSD?
+A:San Diego Library
+A:Geisel
