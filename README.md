@@ -8,8 +8,8 @@ The game can be run either by loading an existing 20 questions tree from a file 
 
 a) Run with the default 4-question tree
 
-***java  -jar TwentyQuestions.jar***
+>- ***java  -jar TwentyQuestions.jar***
 
 b) Run by loading an existing game tree
 
-***java -jar TwentyQuestions.jar filename***
+>- ***java -jar TwentyQuestions.jar filename***
